@@ -1,0 +1,6 @@
+c:\users\vas richard roland\documents\visual studio 2015\Projects\MondayCollections\MondayCollections\bin\Debug\MondayCollections.exe.config
+c:\users\vas richard roland\documents\visual studio 2015\Projects\MondayCollections\MondayCollections\bin\Debug\MondayCollections.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\MondayCollections\MondayCollections\bin\Debug\MondayCollections.pdb
+c:\users\vas richard roland\documents\visual studio 2015\Projects\MondayCollections\MondayCollections\obj\Debug\MondayCollections.csprojResolveAssemblyReference.cache
+c:\users\vas richard roland\documents\visual studio 2015\Projects\MondayCollections\MondayCollections\obj\Debug\MondayCollections.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\MondayCollections\MondayCollections\obj\Debug\MondayCollections.pdb
